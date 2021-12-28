@@ -4,7 +4,7 @@
 <p align="center"><i><strong>Smart people are never too busy!!: I am convinced that the world belongs to tireless and intelligent workers who like to think and be practical in their lives</strong></i></p>
           
 
-![Smart people are never too busy!](https://github.com/crumptonr52/crumptonr52/blob/main/worksmarter.jpg) 
+![Smart people are never too busy!](https://github.com/brownt23/brownt23/blob/main/worksmarter.jpg) 
 
 - 🌱 I’m currently working as Web UI developer at Globant and every day is great!
 - 👯  I’m looking for companies that want to change the world!
@@ -93,9 +93,9 @@
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
-  <a href="https://github.com/crumptonr52">GITHUB</a>
+  <a href="https://github.com/brownt23">GITHUB</a>
   <a href="">LINKEDIN</a>
-  <a href="mailto:crumptonrick3@gmail.com">MAIL</a>
+  <a href="mailto:browntristan263@gmail.com">MAIL</a>
   
 </p>
 
