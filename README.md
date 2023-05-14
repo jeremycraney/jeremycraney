@@ -1,10 +1,10 @@
-<h2 align="center">Hi there, I'm Tristan 👋</h2>
+<h2 align="center">Hi there, I'm Jeremy 👋</h2>
 
 
 <p align="center"><i><strong>Smart people are never too busy!!: I am convinced that the world belongs to tireless and intelligent workers who like to think and be practical in their lives</strong></i></p>
           
 
-![Smart people are never too busy!](https://github.com/brownt23/brownt23/blob/main/worksmarter.jpg) 
+![Smart people are never too busy!](https://github.com/jeremycraney/jeremycraney/blob/main/worksmarter.jpg) 
 
 - 🌱 I’m currently working as Web UI developer at Globant and every day is great!
 - 👯  I’m looking for companies that want to change the world!
@@ -12,7 +12,7 @@
 <details>
   <summary><strong>More About Me</strong></summary>
   <br>
-   I'm working in my first role as Web Rails developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
+   I'm working in my first role as Web developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
    
  
    **Hobbies** 
@@ -21,7 +21,7 @@
    
   **I am currently 🔭**
    - Working with Javascript, ReactJS
-   - Working Ruby on Rails
+   - Working Node, C#, .Net
    - Learning Python
    
 </details>
@@ -33,7 +33,7 @@
   <summary><strong>Some things I am trying to be better at 🌱</strong></summary>
   <br>
 
-  - Mastering Ruby, JavaScript
+  - Mastering TypeScript, C#, JavaScript
   - Doing a lof of coding challenges
 
 </details>
@@ -62,8 +62,8 @@
   
   <p><strong>Backend-end Languages</strong></p>
   
+  - C#
   - Ruby
-  - PHP
   - Python
   
   <br>
@@ -79,7 +79,7 @@
   
   <p><strong>Frameworks</strong></p>
   
- - Ruby on Rails
+ - ASP.Net
  - React and Redux
  - Bootstrap
  - Node
@@ -93,9 +93,9 @@
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
-  <a href="https://github.com/brownt23">GITHUB</a>
+  <a href="https://github.com/jeremycraney">GITHUB</a>
   <a href="">LINKEDIN</a>
-  <a href="mailto:browntristan263@gmail.com">MAIL</a>
+  <a href="mailto:jeremycraney6@gmail.com">MAIL</a>
   
 </p>
 
